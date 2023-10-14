@@ -1,3 +1,4 @@
 # my-demo
-This is my first repository
-Author - Abhay Suthar
+This is my first repository.
+<br>
+Author - Abhay Suthar.
